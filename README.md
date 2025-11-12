@@ -28,7 +28,7 @@ SIAG COOP se guía por los principios de:
 
 ## 📡 Comunicación y contacto  
 - **Telegram:** [@SIAG_SOFTWARE](https://t.me/SIAG_SOFTWARE)  
-- **Correo:** siag.software7@gmail.com  
+- **Correo:** siag.software@protonmail.com  
 - **Sitio web (en desarrollo):** [https://siagcoop.org](https://siagcoop.org)
 
 ## ⚙️ Licencia  
