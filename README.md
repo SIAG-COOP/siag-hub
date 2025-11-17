@@ -15,11 +15,11 @@ Este repositorio no contiene software principal, sino **documentación, estructu
 
 ## 📦 Repositorios del Ecosistema SIAG COOP
 ```
-| Repositorio | Rol |
-|-------------|-----|
-| 🧩 **cooperative-tools** | Herramientas y automatizaciones cooperativas. |
-| 🌍 **open-civic-apps** | Aplicaciones cívicas abiertas para comunidades sociales. |
-| 🌀 **siag-hub** | Documentación, estructura y organización central. |
+| Repositorio                                | Rol |
+|--------------------------------------------|-----------------------------------------------|
+| 🧩 **cooperative-tools**                  | Herramientas y automatizaciones cooperativas. |
+| 🌍 **open-civic-apps**                    | Aplicaciones cívicas abiertas para comunidades sociales. |
+| 🌀 **siag-hub**                           | Documentación, estructura y organización central. |
 ```
 ---
 
