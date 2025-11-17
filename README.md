@@ -1,46 +1,89 @@
-# 🌀 SIAG COOP – Hub Central
+# 🌀 SIAG COOP — Hub Central
+Repositorio central del ecosistema cooperativo SIAG.  
+Aquí se organiza, documenta y conecta toda la estructura interna de SIAG COOP.
 
-**Repositorio central del ecosistema SIAG COOP.**  
-Contiene documentación técnica, lineamientos éticos y referencias de proyectos activos.
+El Hub funciona como:
+- 📚 Archivo principal del ecosistema  
+- 🧭 Mapa de proyectos y repositorios  
+- 🔗 Punto de referencia conceptual y técnico  
+- 🏛️ Estructura organizativa cooperativa  
+- 🌱 Base para la visión y misión conjunta  
 
----
-
-## 📚 Contenido
-
-- Documentos estructurales (Eldoc, módulos SIAG, NativCore).  
-- Mapas de proyectos cooperativos y comerciales.  
-- Manuales de despliegue de herramientas libres en servidores autogestionados.  
-- Recursos gráficos y comunicacionales para uso interno y externo.
-
----
-
-## 🌐 Propósito
-
-Servir como archivo, punto de encuentro y base de conocimiento común para todas las células de SIAG COOP y organizaciones aliadas.
+Este repositorio no contiene software principal, sino **documentación, estructura y enlaces**, funcionando como el “centro de gravedad” del ecosistema.
 
 ---
 
-## 🧭 Cómo usar este repositorio
+## 📦 Repositorios del Ecosistema SIAG COOP
+```
+| Repositorio | Rol |
+|-------------|-----|
+| 🧩 **cooperative-tools** | Herramientas y automatizaciones cooperativas. |
+| 🌍 **open-civic-apps** | Aplicaciones cívicas abiertas para comunidades sociales. |
+| 🌀 **siag-hub** | Documentación, estructura y organización central. |
+```
+---
 
-1. Cloná el repo:  
-   ```bash
-   git clone https://github.com/SIAG-COOP/siag-hub.git
-   cd siag-hub
-Consultá el archivo INDEX.md para navegar por los módulos activos.
+## 🧭 Qué contiene este repositorio
+```
+siag-hub/
+├── README.md
+├── docs/
+│ └── mission_and_structure.md → Documento base de misión y estructura
+└── src/
+└── hub_index.py → Módulo conceptual del hub
+```
 
-Usá las etiquetas de versión para acceder a revisiones anteriores.
+---
 
-🔗 Ecosistema SIAG COOP
-🧩 Cooperative Tools
+## 🧱 Función del Hub
 
-🌍 Open Civic Apps
+El hub existe para:
 
-🤝 Colaboración
-Telegram: @SIAG_SOFTWARE
+- describir la **arquitectura cooperativa SIAG**  
+- definir lineamientos y principios del ecosistema  
+- conectar técnicamente los repositorios  
+- organizar documentación cívica y cooperativa  
+- ofrecer un lugar central para colaboradores  
 
-Correo: siag.software@protonmail.com
+Es la “capa de organización” del ecosistema.
 
-📜 Licencia
-Creative Commons BY-SA 4.0 – Con atribución y compartición igual.
+---
 
-© 2025 SIAG COOP – Cooperativa Informática de Software Libre.
+## 🌿 Filosofía de SIAG COOP
+La cooperativa se apoya en valores de:
+
+- tecnología ética  
+- transparencia  
+- participación colectiva  
+- autonomía digital  
+- cooperación  
+- descentralización  
+- impacto social  
+
+Estos principios se detallan en la documentación del Hub.
+
+---
+
+## 📚 Documentación
+Ver el documento central:
+
+📄 [`docs/mission_and_structure.md`](docs/mission_and_structure.md)
+
+---
+
+## 🤝 Participación
+Cualquier persona o colectivo puede colaborar con:
+
+- documentación  
+- propuestas conceptuales  
+- organización del ecosistema  
+- estructura y mejora del hub  
+
+---
+
+## 🔗 Contacto
+Email: **siag.software@protonmail.com**  
+Telegram: https://t.me/SIAG_SOFTWARE  
+Canal SIAG COOP: https://t.me/SIAGCOOP  
+
+---
